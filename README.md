@@ -35,3 +35,4 @@ JobWiseAI is an AI-powered career assistant that helps you:
 ├── job_data.py                # Job dataset
 ├── requirements.txt           # All dependencies
 └── README.md
+# JobWiseAI
