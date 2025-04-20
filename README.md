@@ -4,7 +4,6 @@ JobWiseAI is an AI-powered career assistant that helps you:
 - Extract skills from your resume
 - Recommend matching jobs based on your skills
 - Generate a personalized cover letter
-- Analyze skill gaps and suggest learning paths
 - Export job recommendations to PDF or CSV
 
 ## 🚀 Features
